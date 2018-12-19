@@ -2,6 +2,8 @@ from numseq.fib import fib
 from numseq.geo import *
 from numseq.prime import *
 
+"""This will test the num seq package for the correct solutions"""
+
 
 print ("Fibonacci")
 for i in range(10):
